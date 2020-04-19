@@ -18,4 +18,4 @@ def valid_phone_number?(phone)
 
 end
 
-puts starts_with_a_vowel?("Test")
+puts starts_with_a_vowel?("Aest")

@@ -18,4 +18,4 @@ def valid_phone_number?(phone)
 
 end
 
-puts "awesome".scan(/\b\w+^[a,e,i,o,u]\b/i)
+puts "awesome".scan(/\b^[a,e,i,o,u]\b/i)
